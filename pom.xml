@@ -17,7 +17,7 @@
 	</parent>
 
 	<properties>
-		<mule.version>3.9.0</mule.version>
+		<mule.version>4.4.0</mule.version>
 		<mule.tools.version>1.7</mule.tools.version>
 	</properties>
 
